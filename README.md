@@ -1,7 +1,7 @@
 # Hi 👋, I'm Paci696
 
 - 🌱 I'm currently learning **JAVA, HTML, CSS, JSCRIPT, PHP, SQL, AND PYTHON**
-- 
+  
 - 🤝 I'm looking for help with **Upskilling my skills and knowledge**
 
 <h3 align="left">Connect with me:</h3>
