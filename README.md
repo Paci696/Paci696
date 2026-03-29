@@ -1,6 +1,16 @@
 # Hi 👋, I'm Paci696
 
-- 🌱 I'm currently learning **JAVA, HTML, CSS, JSCRIPT, PHP, SQL, AND PYTHON**
+### 🛠️ Technical Arsenal
+* **Languages:** Java, PHP, SQL, HTML, CSS, JavaScript
+* **Databases & Servers:** MySQL, XAMPP (Local Environment Management)
+* **Workflow & Automation:** Multi-Agent AI Orchestration, Google Workspace Architecture
+
+### 🚀 What I'm Currently Working On
+* **Full-Stack Web Architecture:** Developing dynamic web applications using PHP and MySQL, focusing on secure server-side logic and database integration.
+* **AI System Orchestration:** Architecting a personalized, multi-agent AI framework designed to automate multi-step tasks and operate as a localized productivity engine.
+* **Game Logic Design:** Continuously optimizing system logic and object-oriented architectures through 2D Java game development.
+
+⭐️ *Always learning, always optimizing.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
